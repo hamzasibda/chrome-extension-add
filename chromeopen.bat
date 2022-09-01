@@ -1,0 +1,22 @@
+@echo off
+
+start Chrome-001 
+start Chrome-002
+start Chrome-003
+start Chrome-004
+start Chrome-005
+start Chrome-006
+start Chrome-007
+start Chrome-008
+start Chrome-009
+start Chrome-010
+start Chrome-011
+start Chrome-012
+start Chrome-013
+start Chrome-014
+start Chrome-015
+start Chrome-016
+start Chrome-017
+start Chrome-018
+start Chrome-019
+start Chrome-020
